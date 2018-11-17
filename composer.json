@@ -22,7 +22,7 @@
         "ruflin/elastica": "^6.0",
         "spatie/laravel-permission": "^2.9",
         "tightenco/ziggy": "^0.6.2",
-        "vinkla/hashids": "^4.0",
+        "vinkla/hashids": "^5.0",
         "vimeo/laravel": "^5.0"
     },
     "require-dev": {
